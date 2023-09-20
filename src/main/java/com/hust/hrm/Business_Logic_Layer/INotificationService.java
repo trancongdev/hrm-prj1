@@ -1,7 +1,7 @@
-package com.phenikaa.hrm.Business_Logic_Layer;
+package com.hrm.hrm.Business_Logic_Layer;
 
-import com.phenikaa.hrm.dto.NotificationsDto;
-import com.phenikaa.hrm.entity.Notifications;
+import com.hrm.hrm.dto.NotificationsDto;
+import com.hrm.hrm.entity.Notifications;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import java.util.List;

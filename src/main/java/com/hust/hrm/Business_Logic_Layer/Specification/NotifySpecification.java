@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.Business_Logic_Layer.Specification;
-import com.phenikaa.hrm.entity.Department;
-import com.phenikaa.hrm.entity.Notifications;
+package com.hrm.hrm.Business_Logic_Layer.Specification;
+import com.hrm.hrm.entity.Department;
+import com.hrm.hrm.entity.Notifications;
 import org.springframework.data.jpa.domain.Specification;
 import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;

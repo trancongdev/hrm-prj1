@@ -1,14 +1,14 @@
-package com.phenikaa.hrm.Presentation_Layer;
+package com.hrm.hrm.Presentation_Layer;
 
-import com.phenikaa.hrm.Business_Logic_Layer.DepartmentService;
-import com.phenikaa.hrm.Business_Logic_Layer.IEmailService;
-import com.phenikaa.hrm.Business_Logic_Layer.IUserService;
-import com.phenikaa.hrm.Business_Logic_Layer.NotificationService;
-import com.phenikaa.hrm.dto.NotificationsDto;
-import com.phenikaa.hrm.entity.Department;
-import com.phenikaa.hrm.entity.Notifications;
-import com.phenikaa.hrm.entity.User;
-import com.phenikaa.hrm.form.SendEmailToUserForm;
+import com.hrm.hrm.Business_Logic_Layer.DepartmentService;
+import com.hrm.hrm.Business_Logic_Layer.IEmailService;
+import com.hrm.hrm.Business_Logic_Layer.IUserService;
+import com.hrm.hrm.Business_Logic_Layer.NotificationService;
+import com.hrm.hrm.dto.NotificationsDto;
+import com.hrm.hrm.entity.Department;
+import com.hrm.hrm.entity.Notifications;
+import com.hrm.hrm.entity.User;
+import com.hrm.hrm.form.SendEmailToUserForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;

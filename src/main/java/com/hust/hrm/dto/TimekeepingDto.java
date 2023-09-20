@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.dto;
+package com.hrm.hrm.dto;
 
-import com.phenikaa.hrm.entity.Timekeeping;
+import com.hrm.hrm.entity.Timekeeping;
 import lombok.Data;
 
 import javax.validation.constraints.NotNull;

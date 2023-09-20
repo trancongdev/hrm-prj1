@@ -1,4 +1,4 @@
-package com.phenikaa.hrm.dto;
+package com.hrm.hrm.dto;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.dto;
+package com.hrm.hrm.dto;
 
-import com.phenikaa.hrm.entity.ResetPassword;
+import com.hrm.hrm.entity.ResetPassword;
 import lombok.Data;
 
 import java.io.Serializable;

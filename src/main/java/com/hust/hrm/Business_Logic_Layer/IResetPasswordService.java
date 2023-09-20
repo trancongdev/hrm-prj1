@@ -1,7 +1,7 @@
-package com.phenikaa.hrm.Business_Logic_Layer;
+package com.hrm.hrm.Business_Logic_Layer;
 
-import com.phenikaa.hrm.dto.ResetPasswordDto;
-import com.phenikaa.hrm.entity.ResetPassword;
+import com.hrm.hrm.dto.ResetPasswordDto;
+import com.hrm.hrm.entity.ResetPassword;
 
 import javax.mail.MessagingException;
 import java.io.UnsupportedEncodingException;

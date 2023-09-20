@@ -1,8 +1,8 @@
-package com.phenikaa.hrm.Business_Logic_Layer;
+package com.hrm.hrm.Business_Logic_Layer;
 
-import com.phenikaa.hrm.dto.DepartmentDto;
-import com.phenikaa.hrm.entity.Department;
-import com.phenikaa.hrm.form.filter.DepartmentFilterForm;
+import com.hrm.hrm.dto.DepartmentDto;
+import com.hrm.hrm.entity.Department;
+import com.hrm.hrm.form.filter.DepartmentFilterForm;
 import org.springframework.data.domain.Page;
 
 import org.springframework.data.domain.Pageable;

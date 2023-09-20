@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.form;
+package com.hrm.hrm.form;
 
-import com.phenikaa.hrm.entity.Timekeeping;
+import com.hrm.hrm.entity.Timekeeping;
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;
 

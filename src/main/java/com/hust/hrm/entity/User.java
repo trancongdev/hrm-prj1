@@ -1,4 +1,4 @@
-package com.phenikaa.hrm.entity;
+package com.hrm.hrm.entity;
 
 import lombok.Data;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.phenikaa.hrm.form;
+package com.hrm.hrm.form;
 
 import lombok.Data;
 

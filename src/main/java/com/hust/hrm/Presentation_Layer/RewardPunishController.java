@@ -1,11 +1,11 @@
-package com.phenikaa.hrm.Presentation_Layer;
+package com.hrm.hrm.Presentation_Layer;
 
-import com.phenikaa.hrm.Business_Logic_Layer.IUserService;
-import com.phenikaa.hrm.Business_Logic_Layer.IrewardPunishService;
-import com.phenikaa.hrm.Business_Logic_Layer.RewardPunishService;
-import com.phenikaa.hrm.dto.RewardPunishDto;
-import com.phenikaa.hrm.entity.RewardPunish;
-import com.phenikaa.hrm.entity.User;
+import com.hrm.hrm.Business_Logic_Layer.IUserService;
+import com.hrm.hrm.Business_Logic_Layer.IrewardPunishService;
+import com.hrm.hrm.Business_Logic_Layer.RewardPunishService;
+import com.hrm.hrm.dto.RewardPunishDto;
+import com.hrm.hrm.entity.RewardPunish;
+import com.hrm.hrm.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

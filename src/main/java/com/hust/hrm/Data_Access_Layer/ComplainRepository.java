@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.Data_Access_Layer;
+package com.hrm.hrm.Data_Access_Layer;
 
-import com.phenikaa.hrm.entity.Complain;
+import com.hrm.hrm.entity.Complain;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;

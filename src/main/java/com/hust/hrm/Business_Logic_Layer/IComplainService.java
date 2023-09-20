@@ -1,7 +1,7 @@
-package com.phenikaa.hrm.Business_Logic_Layer;
+package com.hrm.hrm.Business_Logic_Layer;
 
-import com.phenikaa.hrm.dto.ComplainDto;
-import com.phenikaa.hrm.entity.Complain;
+import com.hrm.hrm.dto.ComplainDto;
+import com.hrm.hrm.entity.Complain;
 
 import java.util.List;
 

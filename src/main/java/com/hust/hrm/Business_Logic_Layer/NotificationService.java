@@ -1,11 +1,11 @@
-package com.phenikaa.hrm.Business_Logic_Layer;
+package com.hrm.hrm.Business_Logic_Layer;
 
-import com.phenikaa.hrm.Business_Logic_Layer.Specification.DepartmentSpecification;
-import com.phenikaa.hrm.Business_Logic_Layer.Specification.NotifySpecification;
-import com.phenikaa.hrm.Data_Access_Layer.DepartmentRepository;
-import com.phenikaa.hrm.Data_Access_Layer.NotificationRepository;
-import com.phenikaa.hrm.entity.Department;
-import com.phenikaa.hrm.entity.Notifications;
+import com.hrm.hrm.Business_Logic_Layer.Specification.DepartmentSpecification;
+import com.hrm.hrm.Business_Logic_Layer.Specification.NotifySpecification;
+import com.hrm.hrm.Data_Access_Layer.DepartmentRepository;
+import com.hrm.hrm.Data_Access_Layer.NotificationRepository;
+import com.hrm.hrm.entity.Department;
+import com.hrm.hrm.entity.Notifications;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.jpa.domain.Specification;

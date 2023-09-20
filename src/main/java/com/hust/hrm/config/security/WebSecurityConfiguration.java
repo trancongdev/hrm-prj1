@@ -1,7 +1,7 @@
-package com.phenikaa.hrm.config.security;
+package com.hrm.hrm.config.security;
 
 
-import com.phenikaa.hrm.Business_Logic_Layer.IUserService;
+import com.hrm.hrm.Business_Logic_Layer.IUserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 

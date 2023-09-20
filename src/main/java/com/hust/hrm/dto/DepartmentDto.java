@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.dto;
+package com.hrm.hrm.dto;
 
-import com.phenikaa.hrm.entity.Department;
+import com.hrm.hrm.entity.Department;
 import lombok.*;
 
 import javax.validation.constraints.NotNull;

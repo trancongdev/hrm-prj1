@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.Business_Logic_Layer.Specification;
+package com.hrm.hrm.Business_Logic_Layer.Specification;
 
-import com.phenikaa.hrm.entity.User;
+import com.hrm.hrm.entity.User;
 import org.springframework.data.jpa.domain.Specification;
 
 import javax.persistence.criteria.CriteriaBuilder;

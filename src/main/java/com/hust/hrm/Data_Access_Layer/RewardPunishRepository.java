@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.Data_Access_Layer;
+package com.hrm.hrm.Data_Access_Layer;
 
-import com.phenikaa.hrm.entity.RewardPunish;
+import com.hrm.hrm.entity.RewardPunish;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 

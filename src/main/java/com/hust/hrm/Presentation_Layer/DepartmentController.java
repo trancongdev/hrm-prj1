@@ -1,11 +1,11 @@
-package com.phenikaa.hrm.Presentation_Layer;
+package com.hrm.hrm.Presentation_Layer;
 
 
-import com.phenikaa.hrm.Business_Logic_Layer.IDepartmentService;
-import com.phenikaa.hrm.dto.DepartmentDto;
-import com.phenikaa.hrm.entity.Department;
-import com.phenikaa.hrm.form.filter.DepartmentFilterForm;
-import com.phenikaa.hrm.form.filter.UserFilterForm;
+import com.hrm.hrm.Business_Logic_Layer.IDepartmentService;
+import com.hrm.hrm.dto.DepartmentDto;
+import com.hrm.hrm.entity.Department;
+import com.hrm.hrm.form.filter.DepartmentFilterForm;
+import com.hrm.hrm.form.filter.UserFilterForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;

@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.dto;
+package com.hrm.hrm.dto;
 
-import com.phenikaa.hrm.entity.Notifications;
+import com.hrm.hrm.entity.Notifications;
 import lombok.Data;
 
 import javax.validation.constraints.NotNull;

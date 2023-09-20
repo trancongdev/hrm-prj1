@@ -1,6 +1,6 @@
-package com.phenikaa.hrm.dto;
+package com.hrm.hrm.dto;
 
-import com.phenikaa.hrm.entity.Complain;
+import com.hrm.hrm.entity.Complain;
 import lombok.Data;
 
 import java.io.Serializable;

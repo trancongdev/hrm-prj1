@@ -1,7 +1,7 @@
-package com.phenikaa.hrm.Presentation_Layer;
+package com.hrm.hrm.Presentation_Layer;
 
-import com.phenikaa.hrm.Business_Logic_Layer.IUserService;
-import com.phenikaa.hrm.entity.User;
+import com.hrm.hrm.Business_Logic_Layer.IUserService;
+import com.hrm.hrm.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

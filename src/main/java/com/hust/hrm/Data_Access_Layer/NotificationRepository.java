@@ -1,7 +1,7 @@
-package com.phenikaa.hrm.Data_Access_Layer;
+package com.hrm.hrm.Data_Access_Layer;
 
-import com.phenikaa.hrm.entity.Department;
-import com.phenikaa.hrm.entity.Notifications;
+import com.hrm.hrm.entity.Department;
+import com.hrm.hrm.entity.Notifications;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.domain.Specification;

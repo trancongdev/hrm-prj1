@@ -1,8 +1,8 @@
-package com.phenikaa.hrm.Business_Logic_Layer;
+package com.hrm.hrm.Business_Logic_Layer;
 
 
-import com.phenikaa.hrm.Data_Access_Layer.UserRepository;
-import com.phenikaa.hrm.entity.User;
+import com.hrm.hrm.Data_Access_Layer.UserRepository;
+import com.hrm.hrm.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.mail.javamail.MimeMessageHelper;
